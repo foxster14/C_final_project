@@ -2,8 +2,3 @@
 
 void placeShips(Grid* grid); 
 int placeAttack(Grid* grid);
-
-
-int main(){
-
-}
